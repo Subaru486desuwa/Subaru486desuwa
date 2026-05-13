@@ -1,6 +1,8 @@
-### Hey, I'm Subaru486desuwa
-
-I build CLI tools and embedded systems. Also exploring deep learning on the side.
+<p align="center">
+  <a href="https://github.com/Subaru486desuwa">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=600&color=586069&center=true&vCenter=true&width=600&lines=Hi!+I'm+Subaru486desuwa;Building+CLI+tools+%26+embedded+systems;Exploring+deep+learning+on+the+side;Rust+%C2%B7+STM32+%C2%B7+PyTorch" alt="typing-svg" />
+  </a>
+</p>
 
 Currently into **Rust**, **STM32**, **PyTorch**, and turning repetitive work into one-command solutions.
 
