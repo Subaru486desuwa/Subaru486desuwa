@@ -14,26 +14,23 @@ Currently into **Rust**, **STM32**, **PyTorch**, and turning repetitive work int
 
 **Featured**
 
-[![micu-image-mcp](https://github-readme-stats.vercel.app/api/pin/?username=Subaru486desuwa&repo=micu-image-mcp&theme=default)](https://github.com/Subaru486desuwa/micu-image-mcp)
-[![cxline](https://github-readme-stats.vercel.app/api/pin/?username=Subaru486desuwa&repo=cxline&theme=default)](https://github.com/Subaru486desuwa/cxline)
-
-[![macroforge](https://github-readme-stats.vercel.app/api/pin/?username=Subaru486desuwa&repo=macroforge&theme=default)](https://github.com/Subaru486desuwa/macroforge)
-[![power-line-detection](https://github-readme-stats.vercel.app/api/pin/?username=Subaru486desuwa&repo=power-line-detection&theme=default)](https://github.com/Subaru486desuwa/power-line-detection)
+- [**micu-image-mcp**](https://github.com/Subaru486desuwa/micu-image-mcp) — MCP server wrapping 米醋 `gpt-image-2` proxy. One-click install for Claude Code / Codex / Cursor.
+- [**cxline**](https://github.com/Subaru486desuwa/cxline) — A lightweight, blazing-fast session monitor for OpenAI Codex CLI.
+- [**macroforge**](https://github.com/Subaru486desuwa/macroforge) — 终端宏锻造厂：键鼠录制 · 回放 · 连点 TUI 工具 (Rust + ratatui).
+- [**power-line-detection**](https://github.com/Subaru486desuwa/power-line-detection) — 电力线路异物检测系统 (YOLOv5s + RK3588 NPU).
 
 ---
 
 **Studying**
 
-A personal record of my ML / DL learning journey — Chinese follow-along notes for d2l-zh / sklearn / Kaggle baselines.
-
-[![from-zero-to-dl](https://github-readme-stats.vercel.app/api/pin/?username=Subaru486desuwa&repo=from-zero-to-dl&theme=default)](https://github.com/Subaru486desuwa/from-zero-to-dl)
+- [**from-zero-to-dl**](https://github.com/Subaru486desuwa/from-zero-to-dl) — 从 matplotlib 到 deep learning 的中文学习路径记录：d2l-zh 全跟学 (含 Transformer / ViT / BERT) → LoRA → Kaggle 实战 → RFM 分析.
 
 ---
 
 <details>
 <summary>Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Subaru486desuwa&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true&icon_color=586069" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Subaru486desuwa&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true&icon_color=586069&cache_seconds=14400" alt="stats" />
 </details>
 
 ---
